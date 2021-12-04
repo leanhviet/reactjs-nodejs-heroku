@@ -1,0 +1,9 @@
+{
+  "FunnyMovie": {
+    "dbConfig": {
+      "host": "localhost",
+      "port": 5984,
+      "dbName": "mongodb+srv://leanhviet24495:Neopest240495@cluster0.ktd11.mongodb.net/funny-movies-db?retryWrites=true&w=majority"
+    }
+  }
+}
